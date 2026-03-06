@@ -132,6 +132,6 @@ For issues or questions, please open an issue on GitHub.
 ## Citation
 If you use Kinesthesis 2.0 in your work, please cite:
 ```
-Telemachus Moussas. Kinesthesis 2.0: Gesture-Controlled Interactive Vocal 
+Tilemachos Moussas. Kinesthesis 2.0: Gesture-Controlled Interactive Vocal 
 Augmentation System. [Year]
 ```
